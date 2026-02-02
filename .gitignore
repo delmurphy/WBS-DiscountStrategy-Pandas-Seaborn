@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+
+# VSCode settings
+.vscode/
+
+# Jupyter notebook checkpoints
+**/.ipynb_checkpoints
+
+# other directories
+data_challenges/
+exploration_notebooks/
+plots/
