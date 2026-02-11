@@ -65,7 +65,7 @@ The final outcome is a **concise, data-driven presentation (5 minutes)** aimed a
 
 ## Environment Setup
 
-This project was developed using Python 3.x.
+This project was developed using Python 3.13.
 
 To recreate the environment:
 
